@@ -17,19 +17,14 @@
         },
         {"tag": "name",
          "patterns": ["what is your name", "what should I call you", "whats your name?", "what should i address you with"],
-         "responses": ["You can call me Friday.", "I'm Friday Shaharyar's personal assistant!", "Well my name's Friday an artifical intelligent personal assistant"],
+         "responses": ["You can call me Chatbot.", "I'm Chatbot", "Well my name's Chabot an artifical intelligent discord bot"],
          "context_set": ""
         },
         {"tag": "what",
          "patterns": ["what is this server about?", "what do we do here?", "whats this server about", "what are we supposed to talk about here", "so umm what do we do", "anything to do"],
-         "responses": ["Well this is just a test server its where Shaharayar test's me before deploying", "Its just a test server I am debugged here", "Just a test server nothing to do but talk to me!", "Bro it's just a test server"],
-         "context_set": ""
-        },
-
-        {"tag": "made",
-         "patterns": ["who programmed you?", "who programmed you friday?", "who made you", "who created you?", "who designed you", "which being made you"],
-         "responses": ["Shaharyar Ahmed", "Shaharyar programmed me", "Well it's a human which designed me, Shaharyar"],
+         "responses": ["Well this is just a test server im tested here before being deployed", "Its just a test server I am debugged here", "Just a test server nothing to do but talk to me!", "Bro it's just a test server"],
          "context_set": ""
         }
+
    ]
 }
