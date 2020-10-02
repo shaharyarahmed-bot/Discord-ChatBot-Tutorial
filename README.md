@@ -1,5 +1,5 @@
 # Discord-ChatBot
-Hey everyone this Github repository is for the Discord Chatbot I made. Please continue reading if you want your chatbot to work properly!
+Hey everyone this Github repository is for the Discord Chatbot I made. Please continue reading if you want your chatbot to work properly! Before starting off I would like to say Thank you to Tech With Tim as his tutorials were really helpful!
 
 # Installation
 In order to make this chatbot you need to install all the packages provided in the requirements.txt and also make sure you have Python 3.7 installed. In your terminal (obviously after installing the repository) go into the repositories directory and type in:
