@@ -173,9 +173,9 @@ class ChatBot(object):
 
         return random.choice(responses)
 
-        """
+        
         else:
             return random.choice(["I dont have a reply for that",
                                   "I am just a prototype I am not finished yet. So I cant answer that for now",
                                   "Sorry I dont have a reply for you know"])
-        """
+        
