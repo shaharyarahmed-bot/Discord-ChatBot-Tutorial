@@ -5,6 +5,9 @@ Hey everyone this Github repository is for the Discord Chatbot I made. Please co
 In order to make this chatbot you need to install all the packages provided in the requirements.txt and also make sure you have Python 3.7 installed. In your terminal (obviously after installing the repository) go into the repositories directory and type in:
 
 pip install -r requirements.txt if the first one does not work then:  pip3 install -r requirements.txt
+then type in:
+
+pip install -U discord.py[voice]
 
 # Setting up our Discord Sever and Application
 First of all we need to setup our discord server, so go ahead and create a new discord server. Then after creating a new server go to the Discord developer portal:
