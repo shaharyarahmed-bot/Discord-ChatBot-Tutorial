@@ -1,4 +1,5 @@
 # Discord-ChatBot
+
 Hey everyone this Github repository is for the Discord Chatbot I made. Please continue reading if you want your chatbot to work properly! Before starting off I would like to say Thank you to Tech With Tim as his tutorials were really helpful!
 
 # Installation
